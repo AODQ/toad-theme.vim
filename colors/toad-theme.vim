@@ -11,7 +11,7 @@ set t_Co=256
 
 " misc
 
-hi ColorColumn      guisp=NONE guifg=#bb8888 guibg=NONE
+hi ColorColumn      guisp=NONE guifg=#bb8888 guibg=#441111
 hi Conceal          guisp=NONE guifg=#ffffff guibg=NONE
 hi Cursor           guisp=NONE guifg=#0000ff guibg=NONE
 hi lCursor          guisp=NONE guifg=#0000ff guibg=NONE
@@ -32,7 +32,7 @@ hi SignColumn       guisp=NONE guifg=#2f5858 guibg=NONE
 hi IncSearch        guisp=NONE guifg=#ffffff guibg=NONE
 hi LineNr           guisp=NONE guifg=#ffffff guibg=NONE
 hi LineNrAbove      guisp=NONE guifg=#868686 guibg=NONE
-hi LineNrBelow      guisp=NONE guifg=#ffffff guibg=NONE
+hi LineNrBelow      guisp=NONE guifg=#868686 guibg=NONE
 hi CursorLineNr     guisp=NONE guifg=#d0cdd0 guibg=NONE
 hi MatchParen       guisp=NONE guifg=#ffffff guibg=NONE
 hi ModeMsg          guisp=NONE guifg=#ffffff guibg=NONE
@@ -70,10 +70,10 @@ hi Normal     guisp=NONE guifg=#dfdfaf guibg=NONE
 hi Comment    guisp=NONE guifg=#5babab guibg=NONE gui=bold
 hi Constant   guisp=NONE guifg=#a88888 guibg=NONE
 hi Identifier guisp=NONE guifg=#ddddee guibg=NONE
-hi Statement  guisp=NONE guifg=#ff8787 guibg=NONE
+hi Statement  guisp=NONE guifg=#dfaf87 guibg=NONE gui=NONE
 hi PreProc    guisp=NONE guifg=#dfaf87 guibg=NONE
 hi Type       guisp=NONE guifg=#af875f guibg=NONE
-hi Special    guisp=NONE guifg=#a88888 guibg=NONE
+hi Special    guisp=NONE guifg=#dfdfaf guibg=NONE
 hi Underlined guisp=NONE guifg=#dfefaf guibg=NONE
 hi Ignore     guisp=NONE guifg=#dfefaf guibg=NONE
 hi Error      guisp=NONE guifg=#ffffff guibg=NONE
@@ -86,7 +86,7 @@ hi Character      guisp=NONE guifg=#ffdf87 guibg=NONE
 hi Number         guisp=NONE guifg=#dfaf87 guibg=NONE
 hi Boolean        guisp=NONE guifg=#ff8787 guibg=NONE
 hi Float          guisp=NONE guifg=#dfaf87 guibg=NONE
-hi Function       guisp=NONE guifg=#ff8787 guibg=NONE
+hi Function       guisp=NONE guifg=#dfaf87 guibg=NONE
 hi Conditional    guisp=NONE guifg=#dfaaac guibg=NONE
 hi Repeat         guisp=NONE guifg=#dfaaac guibg=NONE
 hi Label          guisp=NONE guifg=#ffdf87 guibg=NONE
