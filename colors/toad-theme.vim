@@ -107,3 +107,5 @@ hi SpecialComment guisp=NONE guifg=#ff9a7d guibg=NONE
 hi Debug          guisp=NONE guifg=#ff9a7d guibg=NONE
 
 hi Normal guibg=#000000
+
+set stl=🐸🐸🐸🐸🐸
